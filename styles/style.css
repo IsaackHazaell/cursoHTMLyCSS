@@ -20,6 +20,11 @@
     letter-spacing: -.05rem;
 }
 
+.space {
+    margin-right: 5vh;
+    margin-left: 10vh;
+}
+
 .marketing h2 {
     font-weight: 400;
 }

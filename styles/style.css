@@ -1,0 +1,29 @@
+.contenedor {
+    display: flex; 
+    justify-content: center;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.featurette-heading {
+    margin-top: 10vh;
+    font-size: 6vh;
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+}
+
+.marketing h2 {
+    font-weight: 400;
+}
+
+.white {
+    color: aliceblue;
+}
